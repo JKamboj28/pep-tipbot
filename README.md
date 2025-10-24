@@ -1,4 +1,4 @@
-# PEP TipBot for Telegram (minimal, like Shic TipBot)
+# PEP TipBot for Telegram
 
 Commands implemented:
 - `/start` — Initialize your account and show available commands
